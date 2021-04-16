@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-game
+# Tic-Tac-Toe-game with picture
 Using C++ to write a tic-tac-toe game. prototype
 
 player.h，player.cpp，board.h，board.cpp，game.h，game.cpp，main.cpp。
